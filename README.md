@@ -57,6 +57,7 @@ source .venv/bin/activate        # Linux / macOS
 
 # 3. Εγκατέστησε τα requirements
 pip install -r requirements.txt
+
 ```
 
 ## Χρήση
@@ -80,6 +81,7 @@ streamlit run app.py
 - **Σύνολο Κυριακών**: μετράνε οι ξεχωριστές Κυριακές που εμφανίζουν τουλάχιστον μία ώρα εργασίας.
 
 ## Δομή project
+#
 
 ```
 Grid_analyzer/
@@ -89,6 +91,6 @@ Grid_analyzer/
 └── README.md
 ```
 
-## Άδεια
+### Άδεια
 
 Προσωπική χρήση.
